@@ -3,6 +3,9 @@
 
 ---
 
+`“When the rigor of mathematics and the wildness of esports dance at your fingertips—each kill is an elegant orthogonal transformation in Hilbert space.”` -JiangnanPsalter
+---
+
 那本烫着金边的聘书在月光下泛着幽蓝荧光，我盘坐在协会机房布满灰尘的服务器阵列之间。前任副会长临走前设下的禁制正在瓦解，机箱缝隙中渗出缕缕代码流，在空气中凝结成深蓝色的灵力漩涡。
 
 "以正则表达式重构经脉，用动态规划构筑神识。"我默念着 `《算法导论·练气篇》` 的要诀，指尖在机械键盘上敲出残影。显示器突然爆出刺目红光—— `Codeforces` 第1888场周赛还剩最后七分钟，眼前这道树形DP难题卡住了全球83%的参赛者。
