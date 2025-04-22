@@ -1,6 +1,9 @@
 # 🥇目标：红名 或 删号
 # ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YaoqxCN&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+
 ---
 
 `“When the rigor of mathematics and the wildness of esports dance at your fingertips—each kill is an elegant orthogonal transformation in Hilbert space.”` -JiangnanPsalter
