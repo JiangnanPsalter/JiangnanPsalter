@@ -3,8 +3,8 @@
 </p>
 
 
-# 🥇目标：红名 或 删号
-# ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
+#                 🥇目标：红名 或 删号
+#          ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JiangnanPsalter&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 
