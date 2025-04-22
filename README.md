@@ -6,6 +6,10 @@
 # 🥇目标：红名 或 删号
 # ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
 
+<p align="center">
+<img align="center" src="https://i-blog.csdnimg.cn/blog_migrate/ce714d8a7e5636ffee17b4346da4b394.png" />
+</p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YaoqxCN&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
 
 
