@@ -8,6 +8,12 @@
 ---
 
 `“When the rigor of mathematics and the wildness of esports dance at your fingertips—each kill is an elegant orthogonal transformation in Hilbert space.”` -JiangnanPsalter
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&center=true&width=800&height=70&lines=Welcom+to+JiangnanPsalter's+profile+page!" alt="Typing SVG" /></a>
+</p>
+
+
 ---
 
 那本烫着金边的聘书在月光下泛着幽蓝荧光，我盘坐在协会机房布满灰尘的服务器阵列之间。前任副会长临走前设下的禁制正在瓦解，机箱缝隙中渗出缕缕代码流，在空气中凝结成深蓝色的灵力漩涡。
