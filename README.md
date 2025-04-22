@@ -5,11 +5,15 @@
 
 # 🥇目标：红名 或 删号
 # ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JiangnanPsalter&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
-<img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=YaoqxCN&theme=github_dark&show_icons=true&show=reviews&hide_title=true&hide=contribs&hide_border=true" />
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YaoqxCN&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
 
+<img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=YaoqxCN&theme=github_dark&show_icons=true&show=reviews&hide_title=true&hide=contribs&hide_border=true" />
+
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=YaoqxCN&theme=github-dark-blue&date_format=%5BY.%5Dn.j&hide_border=true" />
 
 
 ---
