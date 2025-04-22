@@ -1,7 +1,8 @@
 # 🥇目标：红名 或 删号
 # ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YaoqxCN&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YaoqxCN&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
+
 
 
 ---
