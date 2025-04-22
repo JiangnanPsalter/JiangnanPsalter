@@ -1,10 +1,10 @@
+# 🥇目标：红名 或 删号
+# ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&center=true&width=800&height=70&lines=Welcom+to+JiangnanPsalter!" alt="Typing SVG" /></a>
 </p>
 
-
-#                 🥇目标：红名 或 删号
-#          ⌈ 此人若未红名，代码永世不得 merge ⌋🔝
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JiangnanPsalter&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 
