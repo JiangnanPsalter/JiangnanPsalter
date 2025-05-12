@@ -45,9 +45,6 @@
 ! 思想钢印版本：v2.718 (欧拉共识协议)  
 # 观测效应触发条件：if (code.accepted()) → collapse_to("tourist_heir");  
 ```
-
----
-
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=while(!succeed)%20%7B%20code.quantum_entangle(tourist);%20}" alt="量子传承动态铭文">  
 </p>
@@ -58,7 +55,6 @@
 - 编译器信仰加成  
 - 观测者效应触发按钮  
 
-效果预览：  
 ![量子传承效果图](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ---
