@@ -4,7 +4,12 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&center=true&width=800&height=70&lines=Welcom+to+JiangnanPsalter!" alt="Typing SVG" /></a>
 </p>
-
+悬锋逐猎，纷争不灭；铁蹄征战，踏遍荒野。万死浴血加冕，王座直面深渊。狮王不需要祭奠。
+Black tides fall on land, Gods descend too dark to stand, They curse all mortal men.
+Whose kin are slain by brothers' hands.
+**Echoing destiny, hero indeed a path we lead.**
+The ways run with pain, But we guard the flame.
+见证吧，悬峰城，迎来新的神了。母亲，我已还乡。
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JiangnanPsalter&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 
